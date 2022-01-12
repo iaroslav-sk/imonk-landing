@@ -628,6 +628,64 @@ margin-top: 90px;
   line-height: 1.4;
   margin-bottom: 25px;
 }
+/* ===================contact us======================== */
+.contact-us-section{
+  padding: 80px 0 100px;
+}
+.contact-us-titule{
+  margin-bottom: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #1E1E1E;
+  font-weight: 700;
+  font-size: 25px;
+}
+.contact-us-text{
+  font-family: sans-serif;
+  color: #1E1E1E; 
+  font-weight: 400;
+  font-size: 15px;
+}
+.map-link-wp{
+  display: contents;
+  cursor: pointer;
+}
+.contact-us-content-wrapper{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.contact-us-right-side{
+  display: flex;
+  flex-direction: column;
+  margin-left: 80px;
+  max-width: 520px;
+}
+.work-address{
+  margin-bottom: 40px;
+}
+.work-time-wp{
+  
+}
+.work-time-contacts-wp{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.phone-number-wp{
+  margin-bottom: 33px;
+}
+.vl {
+  border-left: 1px solid #5EF2FF;
+  height: 350px;
+  margin-left: 130px;
+}
+.social-link-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+
 /* ===================footer======================== */
 .footer {
   padding-bottom: 60px;
